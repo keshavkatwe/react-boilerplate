@@ -1,0 +1,19 @@
+{
+  "name": "manage",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "DESKTOP-AQ8BKEE\\Keshav <keshav.katwe@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
